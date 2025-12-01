@@ -13,5 +13,5 @@ Duck game
 
 [script.js](https://github.com/user-attachments/files/23172077/script.js)
 <img width="73" height="71" alt="duck" src="https://github.com/user-attachments/assets/a57a54dc-6456-4ad6-bb8c-846615a81346" />[default.htm](https://github.com/user-attachments/files/23172079/default.htm)
-
-[annotated-PROG-102-Composition-Creator-Version-2.pdf](https://github.com/user-attachments/files/23863777/annotated-PROG-102-Composition-Creator-Version-2.pdf)
+Composition creator V 2.0
+<img width="569" height="454" alt="Screenshot 2025-12-01 135600" src="https://github.com/user-attachments/assets/f11d32de-c819-43b0-a321-e3be1bb3e485" />
