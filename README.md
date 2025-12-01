@@ -13,18 +13,23 @@ Analyzes popular music ranking them from most popular to least
 
 I had issues with the design of the application and getting it to display real data, so I did use ChatGPT to fix the code a little.
 
+Original Version
+
+<img width="938" height="417" alt="Screenshot 2025-12-01 145220" src="https://github.com/user-attachments/assets/523407df-d7e0-42de-b376-8cedbf7e4cac" />
 
 
 
+----------------------------------------------------------
+
+----------------------------------------------------------
 
 **Random Number Generator**
 **<img width="1891" height="951" alt="Screenshot 2025-10-27 134550" src="https://github.com/user-attachments/assets/79a3434b-8ff1-4db8-9af6-97e91c0a9411" />
 Didn't really work out too well
 Was unable to display anything other than the title
 
-
-
-
+---------------------------------------------------------
+---------------------------------------------------------
 **Duck guessing game**
 
 
@@ -35,7 +40,8 @@ Was unable to display anything other than the title
 [script.js](https://github.com/user-attachments/files/23172077/script.js)
 <img width="73" height="71" alt="duck" src="https://github.com/user-attachments/assets/a57a54dc-6456-4ad6-bb8c-846615a81346" />
 [default.htm](https://github.com/user-attachments/files/23172079/default.htm)
-
+-------------------------------------------------------------
+-------------------------------------------------------------
 **Composition creator V 2.0**
 
 <img width="569" height="454" alt="Screenshot 2025-12-01 135600" src="https://github.com/user-attachments/assets/f11d32de-c819-43b0-a321-e3be1bb3e485" />
@@ -46,7 +52,8 @@ Generates random images
 
 
 At first, the assignment would only generate images of bears, but I added many more images into the program.
-
+----------------------------------------------------------------
+--------------------------------------------------------------
 **Flowchart to interactive experience assignment**
 
 
