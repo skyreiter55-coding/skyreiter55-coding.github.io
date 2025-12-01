@@ -18,5 +18,10 @@ Duck game
 Composition creator V 2.0
 
 <img width="569" height="454" alt="Screenshot 2025-12-01 135600" src="https://github.com/user-attachments/assets/f11d32de-c819-43b0-a321-e3be1bb3e485" />
+
+
 Generates random images 
+
+
+
 At first, the assignment would only generate images of bears, but I added many more images into the program.
